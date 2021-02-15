@@ -193,12 +193,12 @@ const BadgeModule = () => {
             <h5>
               An AI Powered Badge Maker to automatically suggest crop region depending on the face location. <br /> <br />
               Powered by TensorFlow.js <br /> <br />
-              Build with ❤️ by DSC WOW Team
+              Build with ❤️ by JU E-CELL
 
             </h5>
           </div>
 
-          <img src={logo} className="logo" alt="DSC WOW Logo" />
+          <img src={logo} className="logo" alt="JU E-CELL Logo" />
 
         </div>
 
